@@ -20,12 +20,12 @@ The following table summarizes the results of the password strength tests.
 
 | Password Type                  | Sample Password                    | Score / Complexity                            | Analysis                                                                                                 |
 | :----------------------------- | :--------------------------------- | :-------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
-| **Weak (Common Word)** | `password123`                      | [cite_start]**43% (Good)** [cite: 85]                   | Deceptively rated "Good" but is extremely weak as it appears at the top of every password-cracking list.       |
-| **Weak (Personal Info)** | `vikrant2025`                      | [cite_start]**55% (Good)** [cite: 86]                   | Weak because it uses easily guessable personal information that could be found through social media.         |
-| **Medium (Simple Substitution)**| `P@ssw0rd!`                        | [cite_start]**82% (Very Strong)** [cite: 82]          | While rated "Very Strong" by the tool, this is a flawed technique as automated attacks can easily guess common substitutions. |
-| **Medium (Short & Complex)** | `R#b8^k!Z`                         | [cite_start]**96% (Very Strong)** [cite: 87]          | Strong complexity but its short length makes it more vulnerable to modern brute-force attacks over time.  |
-| **Strong (Long & Complex)** | `cyb3r$ec-L@b$-Rul3z!`             | [cite_start]**100% (Very Strong)** [cite: 84]         | An excellent password. It is long, random, and uses a mix of all four character types.                   |
-| **Strong (Passphrase)** | `Correct-Horse-Battery-Staple-99!` | [cite_start]**100% (Very Strong)** [cite: 83]         | An excellent password. Its significant length makes it extremely resistant to brute-force attacks.        |
+| **Weak (Common Word)** | `password123`                      | **43% (Good)**                | Deceptively rated "Good" but is extremely weak as it appears at the top of every password-cracking list.       |
+| **Weak (Personal Info)** | `vikrant2025`                      | **55% (Good)**                    | Weak because it uses easily guessable personal information that could be found through social media.         |
+| **Medium (Simple Substitution)**| `P@ssw0rd!`                        | **82% (Very Strong)**         | While rated "Very Strong" by the tool, this is a flawed technique as automated attacks can easily guess common substitutions. |
+| **Medium (Short & Complex)** | `R#b8^k!Z`                         | **96% (Very Strong)**           | Strong complexity but its short length makes it more vulnerable to modern brute-force attacks over time.  |
+| **Strong (Long & Complex)** | `cyb3r$ec-L@b$-Rul3z!`             | **100% (Very Strong)**          | An excellent password. It is long, random, and uses a mix of all four character types.                   |
+| **Strong (Passphrase)** | `Correct-Horse-Battery-Staple-99!` | **100% (Very Strong)**         | An excellent password. Its significant length makes it extremely resistant to brute-force attacks.        |
 
 ---
 
